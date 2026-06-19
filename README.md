@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋, I'm Harshika
 
-<!--
-**harshika-codes/harshika-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+. Currently learning **Artificial Intelligence , Data Science ,  Machine Learning, Deep Learning, and Generative AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. B.Tech Student passionate about solving real-world problems using data and AI.
+
+. Working on:
+
+* Placement Prediction System
+* Student Performance Analysis
+* student dropout prediction system
+
+💡 Interested in:
+
+* Machine Learning
+* Artificial Intelligence
+* Generative AI
+* Python Development
+
+
+## 🚀 Skills
+
+### Programming Languages
+
+* Python
+* C++
+* java
+* c programming
+* HTML/ CSS
+
+### Data Science & Machine Learning
+
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+
+### Tools & Technologies
+
+* GitHub
+* Jupyter Notebook
+* VS Code
+* Google Colab
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshika-codes\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshika-codes\&layout=compact)
+
+---
+
+## 🌟 Featured Projects
+
+### 🎯 Placement Prediction System
+
+A machine learning project that predicts student placement chances based on academic and skill-related factors.
+
+### 📈 Student Performance Analysis
+
+Data analysis project for identifying factors affecting student performance.
+
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/harshika-codes
+* Email: harshikakamboj9@gmail.com
+
+
+### 💭 Favorite Quote
+
+"Artificial Intelligence is not about replacing humans, it's about empowering them."
+
+⭐ Feel free to explore my repositories and connect with me!..
