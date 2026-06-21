@@ -51,7 +51,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshika-codes\&layout=compact)
 
----
 
 ## 🌟 Featured Projects
 
@@ -68,6 +67,7 @@ Data analysis project for identifying factors affecting student performance.
 
 * GitHub: https://github.com/harshika-codes
 * Email: harshikakamboj9@gmail.com
+* Linkedin: https://www.linkedin.com/in/harshika-kamboj
 
 
 ### 💭 Favorite Quote
