@@ -49,11 +49,29 @@
 * Google Colab
 
 
-## 📊 GitHub Stats
+## 💌 Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshika-codes\&show_icons=true)
+💻 **GitHub**
+> https://github.com/harshika-codes
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshika-codes\&layout=compact)
+💼 **LinkedIn**
+> https://www.linkedin.com/in/harshika-kamboj
+
+📧 **Email**
+> harshikakamboj9@gmail.com
+
+✨ Always open to collaborations, internships and exciting AI projects.## 💌 Let's Connect
+
+💻 **GitHub**
+> https://github.com/harshika-codes
+
+💼 **LinkedIn**
+> https://www.linkedin.com/in/harshika-kamboj
+
+📧 **Email**
+> harshikakamboj9@gmail.com
+
+✨ Always open to collaborations, internships and exciting AI projects.
 
 
 ## 🌟 Featured Projects
