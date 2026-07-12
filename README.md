@@ -1,9 +1,8 @@
 # Hi 👋, I'm Harshika
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Harshika;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Data+Science+Learner;Welcome+to+my+GitHub+Profile+💖" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harshika+Kamboj;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Data+Science+Learner;Welcome+to+my+GitHub+Profile+%F0%9F%92%96" />
 </p>
-
 ### 💻 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 
 . Currently learning **Artificial Intelligence , Data Science ,  Machine Learning, Deep Learning, and Generative AI**
