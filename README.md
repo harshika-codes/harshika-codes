@@ -118,18 +118,6 @@ Harshika Kamboj
 📧 **Email**
 > harshikakamboj9@gmail.com
 
-✨ Always open to collaborations, internships and exciting AI projects.## 💌 Let's Connect
-
-💻 **GitHub**
-> https://github.com/harshika-codes
-
-💼 **LinkedIn**
-> https://www.linkedin.com/in/harshika-kamboj
-
-📧 **Email**
-> harshikakamboj9@gmail.com
-
-✨ Always open to collaborations, internships and exciting AI projects.
 
 ### 💭 Favorite Quote
 
