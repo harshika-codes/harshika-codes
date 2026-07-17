@@ -1,12 +1,8 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Harshika+Kamboj;💜+AI+%26+Machine+Learning+Enthusiast;🐍+Python+Developer;📊+Data+Science+Learner;🌐+Flask+Learner;⚡+Power+BI+Explorer;✨+Welcome+to+My+GitHub+Profile" />
-</h1>
+**Harshika Kamboj **
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&lines=Learning+Artificial+Intelligence...;Building+Machine+Learning+Projects...;Exploring+Generative+AI...;Creating+Power+BI+Dashboards...;Learning+Web+Scraping...;Never+Stop+Learning+🚀" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harshika+Kamboj;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Data+Science+Learner;Flask+Learner;Power+BI;Scraping+learning;Welcome+to+my+GitHub+Profile+%F0%9F%92%96" /> </p>
 
----
+#**💻 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer**
 
 # 💜 About Me
 
