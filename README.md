@@ -1,214 +1,147 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Harshika+Kamboj;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Data+Science+Learner;Flask+Learner;Power+BI+Developer;Web+Scraping+Explorer;Welcome+to+my+GitHub+Profile+💜" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Harshika+Kamboj;💜+AI+%26+Machine+Learning+Enthusiast;🐍+Python+Developer;📊+Data+Science+Learner;🌐+Flask+Learner;⚡+Power+BI+Explorer;✨+Welcome+to+My+GitHub+Profile" />
 </h1>
 
-<h3 align="center">
-💜 Aspiring Data Scientist • AI Enthusiast • Python Developer • ML Learner 💜
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Learning+Something+New+Every+Day...;Building+AI+%26+ML+Projects;Exploring+Generative+AI;Creating+Beautiful+Dashboards+with+Power+BI;Turning+Data+into+Insights+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&lines=Learning+Artificial+Intelligence...;Building+Machine+Learning+Projects...;Exploring+Generative+AI...;Creating+Power+BI+Dashboards...;Learning+Web+Scraping...;Never+Stop+Learning+🚀" />
 </p>
 
 ---
 
-# 💫 About Me
+# 💜 About Me
 
-🌸 Currently learning **Artificial Intelligence, Data Science, Machine Learning, Deep Learning & Generative AI**
+✨ Currently learning **Artificial Intelligence, Data Science, Machine Learning, Deep Learning & Generative AI**
 
-🎓 B.Tech Student passionate about solving **real-world problems using AI & Data Science**
+🎓 B.Tech Student passionate about solving real-world problems using **Data & AI**
 
-🚀 Currently Working On
+## 🚀 Currently Working On
 
 - 🎯 Placement Prediction System
 - 📊 Student Performance Analysis
 - 🎓 Student Dropout Prediction System
-- 📊 Policy Compliance Checker
-- 📈 Attendence recognition system
-- 💎 AI Project Cycle
 
 ---
 
-# 💡 Interests
+# 🌟 Interested In
 
-✨ Machine Learning
-
-🤖 Artificial Intelligence
-
-💎 Generative AI
-
-🐍 Python Development
-
-📊 Data Science
-
-🌐 Web Scraping
-
-📈 Power BI
-
-🤖 Flask
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💎 Generative AI
+- 🐍 Python Development
+- 📈 Data Science
+- 🌐 Web Scraping
+- 📊 Power BI
 
 ---
 
 # 🚀 Skills
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css"/>
-</p>
+`Python` • `C++` • `Java` • `C` • `HTML` • `CSS`
 
----
+### 📊 Data Science & Machine Learning
 
-## 📊 Data Science & Machine Learning
+`Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
+### 🛠 Tools
 
-✔ Pandas
-
-✔ NumPy
-
-✔ Scikit-Learn
-
-✔ Matplotlib
-
----
-
-## 🛠 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=github,vscode"/>
-</p>
-
-✔ GitHub
-
-✔ VS Code
-
-✔ Jupyter Notebook
-
-✔ Google Colab
-
-✔ linkedin
+`GitHub` • `VS Code` • `Jupyter Notebook` • `Google Colab`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 Placement Prediction System
-
-🎯 Predicts student placement chances using Machine Learning.
+### 🤖 Placement Prediction System
+Predicts student placement chances using Machine Learning.
 
 **Tech Stack**
-
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
 ---
 
-## 📈 Sales Prediction System
-
-📊 Forecasts future sales using Machine Learning and Data Analysis.
+### 📈 Sales Prediction System
+Forecasts future sales using Machine Learning.
 
 **Tech Stack**
-
 `Python` `Pandas` `Scikit-learn`
 
 ---
 
-## 🌐 Dynamic Web Scraping
-
-🚀 Extracts real-time data from dynamic websites using Selenium automation.
+### 🌐 Dynamic Web Scraping
+Extracts real-time data from websites using Selenium.
 
 **Tech Stack**
-
 `Python` `Selenium` `BeautifulSoup`
 
 ---
 
-## 📄 Static Web Scraping
-
-📋 Collects structured data from static websites efficiently.
+### 📄 Static Web Scraping
+Collects structured data from static websites.
 
 **Tech Stack**
-
 `Python` `Requests` `BeautifulSoup`
 
 ---
 
-## 🔗 API Scraping
-
-🌍 Retrieves and processes real-time data from REST APIs.
+### 🔗 API Scraping
+Retrieves data from REST APIs.
 
 **Tech Stack**
-
 `Python` `REST API` `JSON`
 
 ---
 
-## 📊 Power BI Dashboard
-
-📈 Interactive Product Sales Dashboard with KPIs, charts and business insights.
+### 📊 Power BI Dashboard
+Interactive Product Sales Dashboard.
 
 **Tech Stack**
-
 `Power BI` `DAX` `Power Query`
 
 ---
 
-## 📉 Student Performance Analysis
-
-📚 Analyzes student performance and visualizes meaningful insights.
+### 📉 Student Performance Analysis
+Analyzes student performance using data visualization.
 
 **Tech Stack**
-
 `Python` `Pandas` `Matplotlib`
 
 ---
 
-## 💎 Google Gemini API
-
-🤖 AI-powered text generation using Google Gemini.
+### 💎 Google Gemini API
+AI-powered text generation.
 
 **Tech Stack**
-
 `Python` `Gemini API`
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
-<p align="center">
+💻 GitHub
 
-<a href="https://github.com/harshika-codes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+https://github.com/harshika-codes
 
-<a href="https://www.linkedin.com/in/harshika-kamboj-790277417/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+💼 LinkedIn
 
-<a href="mailto:harshikakamboj9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+https://www.linkedin.com/in/harshika-kamboj-790277417
 
-</p>
+📧 Email
+
+harshikakamboj9@gmail.com
 
 ---
 
 # 💭 Favorite Quote
 
-<p align="center">
-
-> ### ✨ *"Artificial Intelligence is not about replacing humans, it's about empowering them."*
-
-</p>
+> **"Artificial Intelligence is not about replacing humans, it's about empowering them."**
 
 ---
 
 <h3 align="center">
 
-⭐ Thanks for visiting my GitHub Profile ⭐
+⭐ Thanks for Visiting ⭐
 
-💜 Feel free to explore my repositories and connect with me! 💜
+💜 Feel Free to Explore My Repositories 💜
 
 </h3>
