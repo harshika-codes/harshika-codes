@@ -1,126 +1,214 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Harshika+Kamboj;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Data+Science+Learner;Flask+Learner;Power+BI+Developer;Web+Scraping+Explorer;Welcome+to+my+GitHub+Profile+💜" />
+</h1>
 
-Harshika Kamboj
+<h3 align="center">
+💜 Aspiring Data Scientist • AI Enthusiast • Python Developer • ML Learner 💜
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harshika+Kamboj;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Data+Science+Learner;Flask+Learner;Power+BI;Scraping+learning;Welcome+to+my+GitHub+Profile+%F0%9F%92%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Learning+Something+New+Every+Day...;Building+AI+%26+ML+Projects;Exploring+Generative+AI;Creating+Beautiful+Dashboards+with+Power+BI;Turning+Data+into+Insights+✨" />
 </p>
-### 💻 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
-
-. Currently learning **Artificial Intelligence , Data Science ,  Machine Learning, Deep Learning, and Generative AI**
-
-. B.Tech Student passionate about solving real-world problems using data and AI.
-
-. Working on:
-
-* Placement Prediction System
-* Student Performance Analysis
-* student dropout prediction system
-
-💡 Interested in:
-
-* Machine Learning
-* Artificial Intelligence
-* Generative AI
-* Python Development
-
-
-## 🚀 Skills
-
-### Programming Languages
-
-* Python
-* C++
-* java
-* c programming
-* HTML/ CSS
-
-### Data Science & Machine Learning
-
-* Pandas
-* NumPy
-* Scikit-Learn
-* Matplotlib
-
-### Tools & Technologies
-
-* GitHub
-* Jupyter Notebook
-* VS Code
-* Google Colab
-
-
-
-## 🚀 Featured Projects
-
-### 🤖 Placement Prediction System
-> 🎯 Predicts student placement chances using Machine Learning.
-
-**Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy`
 
 ---
 
-### 📈 Sales Prediction System
-> 📊 Forecasts future sales using Machine Learning and Data Analysis.
+# 💫 About Me
 
-**Tech Stack:** `Python` `Pandas` `Scikit-learn`
+🌸 Currently learning **Artificial Intelligence, Data Science, Machine Learning, Deep Learning & Generative AI**
 
----
+🎓 B.Tech Student passionate about solving **real-world problems using AI & Data Science**
 
-### 🌐 Dynamic Web Scraping
-> 🚀 Extracts real-time data from dynamic websites using Selenium automation.
+🚀 Currently Working On
 
-**Tech Stack:** `Python` `Selenium` `BeautifulSoup`
-
----
-
-### 📄 Static Web Scraping
-> 📋 Collects structured data from static websites efficiently.
-
-**Tech Stack:** `Python` `Requests` `BeautifulSoup`
+- 🎯 Placement Prediction System
+- 📊 Student Performance Analysis
+- 🎓 Student Dropout Prediction System
+- 📊 Policy Compliance Checker
+- 📈 Attendence recognition system
+- 💎 AI Project Cycle
 
 ---
 
-### 🔗 API Scraping
-> 🌍 Retrieves and processes real-time data from REST APIs.
+# 💡 Interests
 
-**Tech Stack:** `Python` `REST API` `JSON`
+✨ Machine Learning
+
+🤖 Artificial Intelligence
+
+💎 Generative AI
+
+🐍 Python Development
+
+📊 Data Science
+
+🌐 Web Scraping
+
+📈 Power BI
+
+🤖 Flask
 
 ---
 
-### 📊 Power BI Dashboard
-> 📈 Interactive Product Sales Dashboard with KPIs, charts and business insights.
+# 🚀 Skills
 
-**Tech Stack:** `Power BI` `DAX` `Power Query`
+## 💻 Programming Languages
 
----
-
-### 📉 Student Performance Analysis
-> 📚 Analyzes student performance and visualizes meaningful insights.
-
-**Tech Stack:** `Python` `Pandas` `Matplotlib`
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css"/>
+</p>
 
 ---
 
-### 💎 Google Gemini API
-> 🤖 AI-powered text generation using Google Gemini.
+## 📊 Data Science & Machine Learning
 
-**Tech Stack:** `Python` `Gemini API`
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
+✔ Pandas
 
-## 💌 Let's Connect
+✔ NumPy
 
-💻 **GitHub**
-> https://github.com/harshika-codes
+✔ Scikit-Learn
 
-💼 **LinkedIn**
-> https://www.linkedin.com/in/harshika-kamboj
+✔ Matplotlib
 
-📧 **Email**
-> harshikakamboj9@gmail.com
+---
 
+## 🛠 Tools & Technologies
 
-### 💭 Favorite Quote
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
+</p>
 
-"Artificial Intelligence is not about replacing humans, it's about empowering them."
+✔ GitHub
 
-⭐ Feel free to explore my repositories and connect with me!..
+✔ VS Code
+
+✔ Jupyter Notebook
+
+✔ Google Colab
+
+✔ linkedin
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Placement Prediction System
+
+🎯 Predicts student placement chances using Machine Learning.
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `Pandas` `NumPy`
+
+---
+
+## 📈 Sales Prediction System
+
+📊 Forecasts future sales using Machine Learning and Data Analysis.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-learn`
+
+---
+
+## 🌐 Dynamic Web Scraping
+
+🚀 Extracts real-time data from dynamic websites using Selenium automation.
+
+**Tech Stack**
+
+`Python` `Selenium` `BeautifulSoup`
+
+---
+
+## 📄 Static Web Scraping
+
+📋 Collects structured data from static websites efficiently.
+
+**Tech Stack**
+
+`Python` `Requests` `BeautifulSoup`
+
+---
+
+## 🔗 API Scraping
+
+🌍 Retrieves and processes real-time data from REST APIs.
+
+**Tech Stack**
+
+`Python` `REST API` `JSON`
+
+---
+
+## 📊 Power BI Dashboard
+
+📈 Interactive Product Sales Dashboard with KPIs, charts and business insights.
+
+**Tech Stack**
+
+`Power BI` `DAX` `Power Query`
+
+---
+
+## 📉 Student Performance Analysis
+
+📚 Analyzes student performance and visualizes meaningful insights.
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib`
+
+---
+
+## 💎 Google Gemini API
+
+🤖 AI-powered text generation using Google Gemini.
+
+**Tech Stack**
+
+`Python` `Gemini API`
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/harshika-codes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshika-kamboj-790277417/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harshikakamboj9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Favorite Quote
+
+<p align="center">
+
+> ### ✨ *"Artificial Intelligence is not about replacing humans, it's about empowering them."*
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+💜 Feel free to explore my repositories and connect with me! 💜
+
+</h3>
