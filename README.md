@@ -19,6 +19,8 @@ Harshika Kamboj
 - 🎯 Placement Prediction System
 - 📊 Student Performance Analysis
 - 🎓 Student Dropout Prediction System
+- 📊 Policy Compliance Checker
+- 📈 Attendance Recognition 
 
 ---
 
@@ -37,6 +39,8 @@ Harshika Kamboj
 🌐 Web Scraping
 
 📈 Power BI
+
+💻 Flask
 
 ---
 
